@@ -1,3 +1,5 @@
+Funcionamento do código:
+
 IDs e Classes:
 
 O campo de texto é selecionado pelo ID amigo (document.getElementById('amigo')).
