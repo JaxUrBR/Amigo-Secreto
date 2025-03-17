@@ -1,4 +1,4 @@
-Link para o Site do projeto (deploy feito utilizando a ferramenta "Vercel"): https://amigo-secreto-eta-blush.vercel.app/
+Link para o Site do projeto (deploy utilizando a ferramenta "Vercel"): https://amigo-secreto-eta-blush.vercel.app/
 
 
 
